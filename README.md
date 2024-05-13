@@ -1,2 +1,3 @@
-# probability_and_statistics
-A place to store background knowledge for other projects
+# Foundational Concepts in Probability and Statistics 
+
+Here you will find foundational coverage in probability and statistics with consistent notation across source material. 
