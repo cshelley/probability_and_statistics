@@ -8,4 +8,4 @@ $$
 \bar{x} = \frac{1}{n}\displaystyle\sum\_{i = 1}^n x_i
 $$
 
-<div style="text-align: right"> _Chapter 1: Sample Paths </div>
+<div style="text-align: right"> _Chapter 1: Sample Paths_ </div>
